@@ -1,3 +1,3 @@
 #versionskontrolle
 
-Boris Kopanja
+Boris Kopanja Commit
