@@ -1,3 +1,3 @@
-# devops_rashifar_kopanbor
+#versionskontrolle
 
-Kopanja
+Boris Kopanja Commit
